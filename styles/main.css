@@ -1,0 +1,10 @@
+.image{
+    background-image: url('https://media.istockphoto.com/id/1334284931/photo/schoolchildren-watching-video-about-recycling-plastic-bottles.jpg?b=1&s=170667a&w=0&k=20&c=pr6yWBaPllsDRgfjLyERJul_DysATFOq-0ycr5PrTOM=');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 90vh;
+    width: 100%;
+  }
+  
